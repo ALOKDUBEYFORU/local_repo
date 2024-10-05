@@ -5,7 +5,7 @@ def mul_num(x,y):
     pass
 
 def div_num(x,y):
-    pass
+    return x/y
 
 def sub_num(x,y):
     pass
